@@ -24,15 +24,7 @@ Employee Management System is a Python desktop application developed with the Tk
 
 4. The table at the bottom displays all employee records.
 
-## Contributing
 
-If you wish to contribute, follow these steps:
-
-1. Fork the repository.
-
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-
-3. Commit your changes: `git commit -m "Description of changes"`.
 
 4. Push to the branch: `git push origin feature-name`.
 
